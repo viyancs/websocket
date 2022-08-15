@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PGs8TNesaTmMWfnmuAQJziBEhY9rjiZ+TbHfD5b1jQI+Mf0O7DVTt2ovvbpxWVsFZUKbTSOrHew89f5+dOHJ2g==",
+  "success": true,
+  "projectFilePath": "D:\\si\\yichen\\websocket\\C#\\Client\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\idsofm00\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\idsofm00\\.nuget\\packages\\serilog.sinks.console\\4.0.1\\serilog.sinks.console.4.0.1.nupkg.sha512",
+    "C:\\Users\\idsofm00\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\idsofm00\\.nuget\\packages\\system.reactive\\4.3.2\\system.reactive.4.3.2.nupkg.sha512",
+    "C:\\Users\\idsofm00\\.nuget\\packages\\system.threading.channels\\4.7.0\\system.threading.channels.4.7.0.nupkg.sha512",
+    "C:\\Users\\idsofm00\\.nuget\\packages\\websocket.client\\4.4.43\\websocket.client.4.4.43.nupkg.sha512"
+  ],
+  "logs": []
+}
